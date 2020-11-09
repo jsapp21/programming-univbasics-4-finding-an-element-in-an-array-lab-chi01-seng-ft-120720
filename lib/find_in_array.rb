@@ -5,7 +5,6 @@ def find_element_index(array, value_to_find)
   while counter < array.length do 
     new_array.push(counter)
     counter += 1 
-  
 end
 
 # array.length.times do |index|
